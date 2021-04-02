@@ -1,0 +1,29 @@
+---
+title: "Руслан Хазарзар: Cын человеческий"
+timezone: France/Paris
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+baseurl: 
+maininstitutesite: 
+author: 
+simple_search: http://google.com/search
+markdown: kramdown
+permalink: "/articles/:short_year/:title"
+excerpt_separator: "<!--more-->"
+exclude:
+- Gemfile
+- Gemfile.lock
+- Rakefile
+- UploadToGithub.Rakefile
+- README.md
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md

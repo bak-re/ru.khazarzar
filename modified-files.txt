@@ -1,0 +1,9 @@
+141729583	./biblia/lopuchin.zip
+222693379	./biblia/yiddish/tnkidish.zip
+190642127	./biblia/thanakh/bombers.zip
+140138427	./biblia/bibl1602.djvu
+389928757	./biblia/sb/sb_1762.pdf
+108676180	./books/jud/enc_jud.zip
+382434436	./books/hieronym/hieronyr.zip
+321815571	./books/jaros01.zip
+218390538	./books/marcion.pdf
