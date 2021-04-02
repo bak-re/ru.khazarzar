@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-baseurl: 
+baseurl: https://ru.khazarzar.bak.re/
 maininstitutesite: 
 author: 
 simple_search: http://google.com/search
