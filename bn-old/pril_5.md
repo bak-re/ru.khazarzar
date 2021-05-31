@@ -1,14 +1,6 @@
 ---
-title: Библейские весы и деньги
+pageid: pril_5
 layout: bn-old
-pageprev: 
-pagenext: "pril 6"
-epigr: 
-frontimage: poln_var
-partname: Приложения
-parturl: prilozh
-chaptername: "Приложение 5"
-citation: "“Блаженнее давать, нежели принимать”<br> (Деян.20:35)."
 ---
 
  

@@ -1,14 +1,6 @@
 ---
-title: Облачение священников в Храме
+pageid: pril_6
 layout: bn-old
-pageprev: 
-pagenext: "pril 7"
-epigr: 
-frontimage: poln_var
-partname: Приложения
-parturl: prilozh
-chaptername: "Приложение 6"
-citation: "“Побеждай зло добром”<br>  (Рим.12:21)."
 ---
 
  

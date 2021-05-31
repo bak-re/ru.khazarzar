@@ -1,21 +1,13 @@
 ---
-title:  Заключение
-layout: bn-old
-pageprev: 
-pagenext: 
-epigr: 
-frontimage: 
-partname: 
-parturl: 
-chaptername: 
-citation: ""
+pageid: zaklu
+layout: page
 ---
 
-[Иудео-христианство](jud_chri.htm)  
-[Паулизм](paulism.htm)  
-[Языко-христианство](yaz_chri.htm)  
-[Христианство и антисемитизм](antisem.htm)  
-[Вокруг православия](orthodox.htm)  
-[Иисус](jesus.htm)
+[Иудео-христианство](jud_chri)  
+[Паулизм](paulism)  
+[Языко-христианство](yaz_chri)  
+[Христианство и антисемитизм](antisem)  
+[Вокруг православия](orthodox)  
+[Иисус](jesus)
  
 

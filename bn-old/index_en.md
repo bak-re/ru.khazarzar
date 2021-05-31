@@ -1,14 +1,6 @@
 ---
-title: The Son of Man
+pageid: index_en
 layout: bn-old
-pageprev: 
-pagenext: 
-epigr: 
-frontimage: 
-partname: 
-parturl: 
-chaptername: 
-citation: "## Ruslan Khazarzar"
 ---
 
 {% marginnote 'barnaša' '[![The Son og Man](img/barntit.jpg) ![The Son og Man](img/barnasch.gif)](bn/the_son.htm)' %}[The Son of Man](bn/the_son.htm "The Son of Man")

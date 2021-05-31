@@ -1,14 +1,6 @@
 ---
-title: Жены Ирода Великого и их потомство
+pageid: pril_4
 layout: bn-old
-pageprev: 
-pagenext: "pril 5"
-epigr: 
-frontimage: 
-partname: Приложения
-parturl: prilozh
-chaptername: "Приложение 4"
-citation: "“Приобретайте себе друзей богатством неправедным”<br> (Лк.16:9)."
 ---
 
  

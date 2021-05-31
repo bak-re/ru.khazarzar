@@ -1,29 +1,21 @@
 ---
-title: Дополнение (Logia kyriaka)
-layout: bn-old
-pageprev: 
-pagenext: 
-epigr: 
-frontimage: 
-partname: 
-parturl: 
-chaptername: 
-citation: "  "
+pageid: dopoln
+layout: page
 ---
 
-[Ad notam](ad_notam.htm)
+[Ad notam](ad_notam)
  
 ## Внебиблейские логии
 
-[Коран](koran.htm)  
-[Аграфа и фрагмент неизвестного Евангелия](agrapha.htm)  
-[Евангелие от Фомы](ev_thoma.htm)  
+[Коран](koran)  
+[Аграфа и фрагмент неизвестного Евангелия](agrapha)  
+[Евангелие от Фомы](ev_thoma)  
 
 ## Библейские логии
 
-[Логии Квартуса](quartus.htm)  
-[Hагорная проповедь](nagorn.htm)  
-[Притчи](parabol.htm)  
-[Hекоторые комментарии к синоптическим логиям](synopt.htm)
+[Логии Квартуса](quartus)  
+[Hагорная проповедь](nagorn)  
+[Притчи](parabol)  
+[Hекоторые комментарии к синоптическим логиям](synopt)
 
 

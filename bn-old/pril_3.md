@@ -1,14 +1,6 @@
 ---
-title: Дата празднования христианской Пасхи
+pageid: pril_3
 layout: bn-old
-pageprev: 
-pagenext: "pril 4"
-epigr: 
-frontimage: ik_bogom
-partname: Приложения
-parturl: prilozh
-chaptername: "Приложение 3"
-citation: "“Сам сатана принимает вид Ангела света”<br> (2 Кор.11:14)."
 ---
 
 

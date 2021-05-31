@@ -1,14 +1,6 @@
 ---
-title: Элоhим
+pageid: elohim
 layout: bn-old
-pageprev: 
-pagenext: 
-epigr: 
-frontimage: el_m_fin
-partname: 'Имя Бога'
-parturl: vveden
-chaptername: 
-citation: "“Не злословь глухого, и пред слепым не клади ничего, чтобы преткнуться ему; бойся Бога твоего.”<br> (Лев.19:14)."
 ---
 
 

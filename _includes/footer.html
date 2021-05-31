@@ -1,6 +1,6 @@
 <footer>
   <hr class="slender">
 <div class="credits">
-<span>&copy; {{ site.time | date: '%Y' }} &nbsp;&nbsp;<a href="{{site.maininstitutesite}}">{{site.author}}</span></br> <br>
+<span>&copy; &nbsp;&nbsp;{{site.author | markdownify | replace: "</p>","" | replace: "<p>","" }}</span>
 </div>  
 </footer>

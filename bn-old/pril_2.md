@@ -1,14 +1,6 @@
 ---
-title: Краткая источниковедческая справка
+pageid: pril_2
 layout: bn-old
-pageprev: 
-pagenext: 
-epigr: 
-frontimage: 
-partname: Приложения
-parturl: prilozh
-chaptername: 
-citation: " "
 ---
  
 

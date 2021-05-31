@@ -1,14 +1,6 @@
 ---
-title: Хронологическая таблица   
+pageid: pril_7
 layout: bn-old
-pageprev: 
-pagenext: 
-epigr: 
-frontimage: 
-partname: Приложения
-parturl: prilozh
-chaptername: "Приложение 7"
-citation: "“Князь мира сего осужден”<br>  (Ин.16:11)."
 ---
 
 (*в сокращении*)

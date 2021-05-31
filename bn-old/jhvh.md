@@ -1,14 +1,6 @@
 ---
-title: Тетраграмматон
+pageid: jhvh
 layout: bn-old
-pageprev: 
-pagenext: 
-epigr: 
-frontimage: jhvh_fin
-partname: Тетраграмматон
-parturl: vveden
-chaptername: 
-citation: "“Господь един, и имя Его — едино”<br> (Зах.14:9)."
 ---
 
 

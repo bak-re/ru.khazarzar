@@ -8,9 +8,10 @@ collections:
   uploads:
     title: Uploads
     output: true
-baseurl: https://ru.khazarzar.bak.re/
+baseurl: 
+baseurlcomm: https://ru.khazarzar.bak.re
 maininstitutesite: 
-author: 
+author: '2000–2013, Руслан Хазарзар <sup>[1](http://khazarzar.livejournal.com "Живой журнал"), [2](http://hazarzar.livejournal.com "Текущее")</sup>'
 simple_search: http://google.com/search
 markdown: kramdown
 permalink: "/articles/:short_year/:title"

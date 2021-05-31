@@ -1,15 +1,7 @@
 ---
-title: Христианство и антисемитизм
+pageid: antisem
 
 layout: bn-old
-pageprev: 
-pagenext: 
-epigr: 
-frontimage: 
-partname: Заключение
-parturl: zaklu
-chaptername: 
-citation: "“Тот Иудей, кто внутренно [таков...]: ему и похвала не от людей, но от Бога”<br> (Рим.2:29)."
 ---
 
  

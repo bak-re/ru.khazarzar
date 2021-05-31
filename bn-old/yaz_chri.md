@@ -1,14 +1,6 @@
 ---
-title: Языко-христианство
+pageid: yaz_chri
 layout: bn-old
-pageprev: 
-pagenext: 
-epigr: 
-frontimage: 
-partname: 
-parturl: 
-chaptername: 
-citation: " "
 ---
 
 <p>     a) <a href="yaz_chr1.htm">Языко-христианство (начало)</a>: непорочное зачатие, Игнатий Антиохийский, клирократия, спиритизм, предсуществование Христа<br />
